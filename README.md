@@ -23,27 +23,25 @@ The dataset contains information about customer sessions and interactions with V
 
 Key tables used in the analysis:
 
-	Dataset	 				Description
-- client			Client demographic information
-- digital			Online interaction data
-- experiment		A/B test assignment
-- final_demo		Combined dataset used for analysis
+- client: Client demographic information
+- digital: Online interaction data
+- experiment: A/B test assignment
+- final_demo: Combined dataset used for analysis
 
 ### 📊 Key Variables
 
-	Variable					Description
-- client_id			Unique identifier for each client
-- age				Client age
-- gender			Client gender
-- tenure			Years as a Vanguard client
-- balance			Account balance
-- experiment_group	Control or Test group
-- process_step		Step completed in the process
-- date_time			Timestamp of user action
+- client_id: Unique identifier for each client
+- age: Client age
+- gender: Client gender
+- tenure: Years as a Vanguard client
+- balance: Account balance
+- experiment_group: Control or Test group
+- process_step: Step completed in the process
+- date_time: Timestamp of user action
 
 ### 🧹 Data Cleaning
 
-Several preprocessing steps were applied before performing analysis.
+Several preprocessing steps were applied before performing the analysis.
 
 Data Cleaning Steps:
 
