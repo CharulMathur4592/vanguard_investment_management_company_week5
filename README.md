@@ -86,9 +86,8 @@ Metrics analyzed:
 
 The experiment compares two website versions:
 
-	Group			Description
-- Control	Existing Vanguard interface
-- Test		New redesigned interface
+- Control: Existing Vanguard interface
+- Test: New redesigned interface
 
 ### 📊 Visualizations
 
